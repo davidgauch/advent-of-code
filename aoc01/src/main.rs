@@ -2,7 +2,7 @@ use std::fs::File;
 use std::io::{self, BufRead};
 
 fn main() -> anyhow::Result<()> {
-    let file = File::open("input.txt")?;
+    let file = File::open("aoc01/input.txt")?;
     let lines = io::BufReader::new(file).lines();
 
     let mut top = [0; 3];
