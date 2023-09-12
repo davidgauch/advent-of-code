@@ -1,3 +1,8 @@
+This is currently incomplete, I made it public mainly to prove that I have ever witten Rust outside the confines of proprietary code.
+==========================================
+
+
+
 2022 Advent of Code solutions
 ==========================================
 
